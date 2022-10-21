@@ -1,0 +1,2 @@
+ahmed = "Human"
+print(ahmed)

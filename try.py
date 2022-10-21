@@ -1,3 +1,2 @@
 ahmed = "Human"
-
-print("ahmedosman")
+print(ahmed)

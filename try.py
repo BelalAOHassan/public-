@@ -1,2 +1,2 @@
-ahmed = "Human"
+ahmed = "ok"
 print(ahmed)
